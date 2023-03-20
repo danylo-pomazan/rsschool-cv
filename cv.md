@@ -72,3 +72,7 @@ I understand that becoming a professional web developer requires continuous lear
 
 ---
 
+#### Languages:
+- English (B2)
+- Ukrainian (native)
+- Russian (fluent)
